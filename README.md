@@ -4,7 +4,7 @@
 
 Can a machine read your handwriting? We use **Support Vector Machines** to recognize handwritten digits, and explain the math, build our own SVM from scratch, tune it, break it with noise, and test it on a digit **you draw yourself**.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/svm-handwritten-digits/blob/main/svm_digits_M0_M11.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naresh-Kumar17/svm-handwritten-digits/blob/main/svm_digits_M0_M11.ipynb)
 
 **Jump to:** [Quick start](#-quick-start) | [Try the live demo](#-try-it-draw-a-digit) | [Results](#-results-at-a-glance) | [Notebook map](#-notebook-map) | [Findings](#-key-findings) | [Limitations](#-limitations)
 
@@ -24,7 +24,7 @@ Can a machine read your handwriting? We use **Support Vector Machines** to recog
 ## ⚡ Quick start
 
 ```bash
-git clone https://github.com/<your-username>/svm-handwritten-digits.git
+git clone https://github.com/Naresh-Kumar17/svm-handwritten-digits.git
 cd svm-handwritten-digits
 pip install -r requirements.txt
 jupyter notebook svm_digits_M0_M11.ipynb
@@ -39,7 +39,7 @@ Choose **Restart and Run All**. It finishes in about a minute. (The interactive 
 3. Run:
 
 ```bash
-python demo_paint_digit.py my_digit.png
+python demo_paint_digit.py sample_test1.png
 ```
 
 You will see your drawing, what the model sees (8x8), and its confidence for every digit.
