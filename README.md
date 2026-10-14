@@ -1,6 +1,6 @@
 # SVM on Handwritten Digits
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-SVM-orange) ![Test accuracy](https://img.shields.io/badge/test%20accuracy-99.2%25-brightgreen) ![Course](https://img.shields.io/badge/DS2001-Assignment%2002-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-SVM-orange) ![Test accuracy](https://img.shields.io/badge/test%20accuracy-99.2%25-brightgreen) 
 
 Can a machine read your handwriting? We use **Support Vector Machines** to recognize handwritten digits, and explain the math, build our own SVM from scratch, tune it, break it with noise, and test it on a digit **you draw yourself**.
 
